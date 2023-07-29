@@ -8,8 +8,6 @@ public class DemoDay3 {
 		String state = "VA";
 		
 		System.out.println("Maria");
-		System.out.println(country);
-		System.out.println(state);
 		
 	}
 }

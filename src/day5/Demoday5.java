@@ -6,6 +6,12 @@ public class Demoday5 {
 		// TODO Auto-generated method stub
 		
 System.out.println("Today is sunny");
+
+	}
+	
+	public void getInfo() {
+		System.out.println("Today is java day");
+		
 	}
 	public void getData() {
 		System.out.println("This is data");
